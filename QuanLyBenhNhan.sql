@@ -154,4 +154,4 @@ MaHS varchar(10) constraint FK_HS1 foreign key references [dbo].[HồSơBệnhÁ
 KhámBệnh nvarchar(10),
 Điềutrị nvarchar(10)
 );
-
+jdfhjsbfuf
